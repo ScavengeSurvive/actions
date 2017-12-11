@@ -1,3 +1,8 @@
+#if defined _actions_included
+	#endinput
+#endif
+#define _actions_included
+
 #include <a_samp>
 #include <YSI\y_hooks>
 #include <YSI\y_timers>
