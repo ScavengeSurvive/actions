@@ -4,6 +4,8 @@
     "dependencies": [
         "Southclaws/samp-stdlib",
         "ScavengeSurvive/test-boilerplate",
+        "Zeex/amx_assembly",
+        "Misiur/YSI-Includes",
         "ScavengeSurvive/velocity",
         "ScavengeSurvive/tick-difference"
     ]
